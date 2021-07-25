@@ -1,0 +1,10 @@
+.vscode
+headless-qa-viewer/node_modules
+.dockerignore
+.editorconfig
+.gitmodules
+.gitpod.Dockerfile
+.gitpod.yml
+Dockerfile
+LICENSE
+README.md

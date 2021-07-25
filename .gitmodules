@@ -1,0 +1,3 @@
+[submodule "headless-qa-viewer"]
+	path = headless-qa-viewer
+	url = https://github.com/0wv/headless-qa-viewer.git
